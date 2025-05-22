@@ -58,3 +58,6 @@ Use `CALIBRATION_MODE = True` in the configuration to fine-tune click positions.
 ## Logging
 
 All actions and errors are logged in `bot_activity.log` for review.
+
+## Comments
+This project was originally made because I wanted to automate certain tasks in an online game. I realized that it could be used for much more if tweaked.
